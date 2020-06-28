@@ -5,9 +5,9 @@
 *.slo
 *.lo
 *.o
-*.obj
-*.bin
-*.ionide
+*.obj/
+*.bin/
+*.ionide/
 
 # Precompiled Headers
 *.gch
@@ -32,3 +32,8 @@
 *.exe
 *.out
 *.app
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Oo]bj/
