@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.AssemblyInfo.cs
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.exe
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.deps.json
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.runtimeconfig.json
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.runtimeconfig.dev.json
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.dll
+C:\Users\USER\Desktop\simulador\bin\Debug\netcoreapp3.1\simulador.pdb
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.dll
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.pdb
+C:\Users\USER\Desktop\simulador\obj\Debug\netcoreapp3.1\simulador.genruntimeconfig.cache
